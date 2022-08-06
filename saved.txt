@@ -1,0 +1,952 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width = device-width, initial-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+    <link rel="stylesheet" href="responsive.css">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <title>Rose</title>
+</head>
+<body>
+    <div class="container">
+    <a id="logo" ><h2>Rose</h2></a>
+    <nav class="navbar h-nav" id="navbar">
+        <ul class="nav-list v-class h-nav">
+           
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="shop.html">Shop</a></li>
+            <li><a href="contact.html">Contact us</a></li>
+        </ul>
+        <div class="burger">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+        </div>
+    </nav>
+</div>
+
+    <section class="background firstSection">
+        <div class="box-main">
+
+            <div class="firsthalf">
+                <p class="text-big"><b>ROSE - YOUR ONE STOP FOR BAKED GOODS</b></p>
+                <p class="text-small">An authentic French flavour that melts your palette.<br>
+                        Click to buy from our wide range of products.
+                </p>
+                <div class="buttons">
+                    <button class="btn" >Shop</button>
+                </div>
+            </div>
+            <div class="secondhalf">
+
+            </div>
+            
+        </div>
+    </section>
+    <section class="section">
+        <div class="paras">
+        <p class="sectionTag text-big">The unforgettable flavours of France</p>
+        <p class="sectionSubTag">Lorem ipsum dolor sit, amet consectetur adipisicing 
+            elit. Neque eos soluta omnis pariatur explicabo nesciunt natus harum 
+            asperiores nobis, sed laudantium ut delectus et magni tempora aperiam 
+            officia possimus non! 
+           </p>
+        </div>
+            <div class="thumbnail">
+                <img src="thumbnail1.png" alt="donut" class="imgFluid">
+            </div>
+    </section>
+    <section class="section left">
+        <div class="paras">
+        <p class="sectionTag text-big">Elegance served en creme</p>
+        <p class="sectionSubTag">Lorem ipsum dolor sit, amet consectetur adipisicing 
+            elit. Neque eos soluta omnis pariatur explicabo nesciunt natus harum 
+            asperiores nobis, sed laudantium ut delectus et magni tempora aperiam 
+            officia possimus non! Lorem ipsum dolor, sit amet consectetur adipisicing 
+            elit. In ut officia deleniti obcaecati no .
+           .</p>
+        </div>
+            <div class="thumbnail">
+                <img src="thumbnail2.png" alt="donut" class="imgFluid">
+            </div>
+    </section>
+    <section class="section">
+        <div class="paras">
+        <p class="sectionTag text-big">Enter the world of cakes and cookies</p>
+        <p class="sectionSubTag">Lorem ipsum dolor sit, amet consectetur 
+            adipisicing elit. Neque eos soluta omnis pariatur explicabo 
+            nesciunt accusantium iure vero voluptatibus maiores facere 
+            mollitia hic eius odio sapiente. Lorem ipsum dolor sit amet 
+            consectetur adipisicing elit. Quis, ad excepturi voluptatibus . </p>
+        </div>
+            <div class="thumbnail" id="thumbnail3">
+                <img src="thumbnail3.png" alt="donut" class="imgFluid">
+            </div>
+    </section>
+
+ 
+<div class="bestsellers">
+<h1 class="text-big">SELECT FROM OUR BEST SET OF PRODUCTS</h1>
+<div class="row">
+<div class="bestseller-card">
+    <img class="bestseller-img" src="custom cakes.png">
+    <h2 class="productName">Customized Cakes</h2>
+</div>
+<div class="bestseller-card">
+    <img class="bestseller-img"src="brownie.png">
+    <h2 class="productName">Brownies</h2>
+    </div>
+
+    <div class="bestseller-card">
+    <img class="bestseller-img"src="continental.png">
+    <h2 class="productName">Continental</h2>
+    </div>
+
+    <div class="bestseller-card">
+    <img class="bestseller-img" src="cookies.png">
+    <h2 class="productName">Cookies</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+ 
+<div class="reviews">
+    <h1 class="text-big">WHAT OUR CUSTOMERS SAY</h1>
+    <div class="row">
+<div class="review-card"><p>Lorem ipsum dolor sit, amet consectetur 
+    adipisicing elit. Neque eos soluta omnis pariatur explicabo 
+    nesciunt accusantium iure vero voluptatibus maiores facere 
+    mollitia hic eius odio sapiente. Lorem ipsum dolor sit amet</p></div>
+<div class="review-card"><p>Lorem ipsum dolor sit, amet consectetur 
+    adipisicing elit. Neque eos soluta omnis pariatur explicabo 
+    nesciunt accusantium iure vero voluptatibus maiores facere 
+    mollitia hic eius odio sapiente. Lorem ipsum dolor sit amet</p></div>
+<div class="review-card"><p>Lorem ipsum dolor sit, amet consectetur 
+    adipisicing elit. Neque eos soluta omnis pariatur explicabo 
+    nesciunt accusantium iure vero voluptatibus maiores facere 
+    mollitia hic eius odio sapiente. Lorem ipsum dolor sit amet</p></div>
+<div class="review-card"><p>Lorem ipsum dolor sit, amet consectetur 
+    adipisicing elit. Neque eos soluta omnis pariatur explicabo 
+    nesciunt accusantium iure vero voluptatibus maiores facere 
+    mollitia hic eius odio sapiente. Lorem ipsum dolor sit amet</p></div>
+</div>
+<div class="row">
+    <div class="review-card"><p>Lorem ipsum dolor sit, amet consectetur 
+        adipisicing elit. Neque eos soluta omnis pariatur explicabo 
+        nesciunt accusantium iure vero voluptatibus maiores facere 
+        mollitia hic eius odio sapiente. Lorem ipsum dolor sit amet</p></div>
+    <div class="review-card"><p>Lorem ipsum dolor sit, amet consectetur 
+            adipisicing elit. Neque eos soluta omnis pariatur explicabo 
+            nesciunt accusantium iure vero voluptatibus maiores facere 
+            mollitia hic eius odio sapiente. Lorem ipsum dolor sit amet</p></div>
+    <div class="review-card"><p>Lorem ipsum dolor sit, amet consectetur 
+                adipisicing elit. Neque eos soluta omnis pariatur explicabo 
+                nesciunt accusantium iure vero voluptatibus maiores facere 
+                mollitia hic eius odio sapiente. Lorem ipsum dolor sit amet</p></div>
+    <div class="review-card"><p>Lorem ipsum dolor sit, amet consectetur 
+                    adipisicing elit. Neque eos soluta omnis pariatur explicabo 
+                    nesciunt accusantium iure vero voluptatibus maiores facere 
+                    mollitia hic eius odio sapiente. Lorem ipsum dolor sit amet</p></div>
+                </div>
+</div>
+
+    <footer>
+        <div class="footerlist" id="footernav">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About us</a></li>
+            <li><a href="shop.html">Shop</a></li>
+            <li><a href="contact.html">Contact us</a></li>
+        </ul>
+    </div>
+
+    <div class="footerlist" id="footershop">
+        <ul>
+            <li><a href="blank.html" id="footerprodlist">OUR PRODUCTS</a></li>
+            <li><a href="blank.html">Cakes</a></li>
+            <li><a href="blank.html">Muffins</a></li>
+            <li><a href="blank.html">Cake Jars</a></li>
+            <li><a href="blank.html">Pizza</a></li>
+            <li><a href="blank.html">Continental</a></li>
+            <li><a href="blank.html">Brownies</a></li>
+            <li><a href="blank.html">Breads</a></li>
+        </ul>
+    </div>
+
+    <div class="footerlist" id="footerdetails">
+        <ul>
+            <li><p>CONTACT US</p></li>
+            <li><p>ABC street XYZ <br>town 1100 ABC</p></li>
+            <li><p>rosebakery@gmail.com</p></li>
+            <li><p>9211111131</p></li>
+            <li><a href="instagram.com">Connect with us on instagram</a></li>
+        </ul>
+    </div>
+
+        <p class="text-footer">
+        Copyright &copy; 2022 Gateau Bakery - All rights reserved
+    </p>
+
+    </footer>
+ <script src="resp.js"></script>
+</body>
+</html>
+
+*{
+    margin: 0;
+    padding:0;
+}
+.container{
+    display : flex;
+}
+#logo{
+    cursor: pointer;
+    font-size: 7vh;
+    text-decoration: none;
+    color:rgb(177, 35, 87);
+    margin-right:1rem;
+    margin-left:5rem;
+    display: block;
+    font-family: 'Dancing script';
+    font-weight:900;
+    margin-top:1rem
+    
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    height:5rem;
+    top:0;  
+    background-color: rgb(177, 35, 87);
+    border-radius : 25px 0px 0px 25px;
+    width:50rem;
+    margin : 2rem 0rem 2rem 21rem;
+}
+
+.nav-list{
+    display: flex;
+    align-items: right;
+    width: 60rem;
+    text-align: right;
+    padding: 0px;
+}
+
+.nav-list li{
+    list-style: none;
+    padding:15px 45px;
+
+}
+
+.nav-list li a{
+    text-decoration: none;
+    color:white;
+    font-size: 3.2vh;
+    font-family:'montserrat';
+    font-weight: 550;
+}
+.nav-list li a:hover{
+    text-decoration: none;
+    background-color:rgba(214, 50, 105, 0.413);
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width:15rem;
+    border-radius: 10%;
+    transition: 0.18s;
+    border: 1px solid palevioletred;
+    box-shadow: 2px 2px 2px 2px rgb(232, 27, 123);
+}
+
+.background{
+    background:url('background.png');
+    background-size: cover;
+    background-blend-mode: darken;
+    height:775;
+}
+
+.box-main{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    color:rgba(253, 243, 247, 1);
+    max-width: 50%;
+    margin-left:1.5rem;
+    font-family:'lora';
+    height:80%;
+}
+
+.firstSection{
+    height:100vh;
+}
+
+.firstHalf{ 
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+       
+}
+
+.secondHalf{
+    padding: 2px;
+    border: 4px solid white;
+    border:150px;
+    display:block;
+    margin:auto;   
+}
+.text-big{
+    font-size: 55px;
+    margin-top: 6rem;
+    font-family: 'Lora';
+    font-weight:900;
+    padding:5;
+    text-align:center; 
+}
+
+.text-small{
+    font-size:25px;
+    margin-top: 1rem;
+    font-family: 'roboto';
+    font-weight: bold;
+    text-align: center;
+}
+
+.btn{
+    padding:8px 20px;
+    font-size:18px;
+    border-radius:14px;
+    font-weight: 500;
+    text-decoration: none;
+    border:3px solid rgba(177, 35, 87, 1);
+    background:none;
+    font-family: 'open sans';
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor:pointer;
+    margin: 1rem 0 0 17rem;
+    text-align: center;
+    color:white; 
+}
+
+.btn:hover{
+    transition:0.18s;
+    font-size:18px;
+    background:linear-gradient(pink,palevioletred);
+    font-weight: bold;
+    width: 10rem;
+    
+}
+
+.btn-sm{
+    padding:3px 10px;
+    vertical-align: middle;
+}
+
+.section{
+    height:500px;
+    display: flex;
+    align-items:center;
+    justify-content: space-evenly;
+    margin-left: 40px;
+    margin-right:40px;
+    margin-top: 40px;
+    color: rgb(31, 18, 47);   
+}
+
+.thumbnail img{
+    height:400px;
+    margin-right:40px;
+    margin-left:40px;
+    border-radius: 10px;
+}
+
+.paras {
+    margin-top: 150px;
+    padding:0.98px;
+    height:400px;
+    font-family:'montserrat';
+    width:400px;
+}
+
+ .paras .sectionTag{
+    margin-top:-1rem;
+    font-size:40px;
+    font-family:'montserrat';
+    
+}
+
+.left{
+    height:500px;
+    display: flex;
+    align-items:center;
+    justify-content: space-evenly;
+    margin-left: 40px;
+    margin-right:40px;
+    flex-direction: row-reverse;
+}
+.left p{
+    margin-left:40px;
+}
+
+.sectionSubTag{
+    margin-top: 1rem;
+    font-size: 15px;
+    font-family: 'montserrat';    
+}
+.bestsellers{
+    margin-left:3rem;
+}
+.bestseller-img{
+    margin:2rem;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 22px 0 rgba(0, 0, 0, 0.19);
+    border-radius:15px;
+}
+
+.bestseller-img:hover{
+    box-shadow: 30px 40px 20px 0 rgba(0, 0, 0, 0.2), 30px 10px 30px 0 rgba(0, 0, 0, 0.19), 10px 10px 10px 10px pink;
+
+}
+
+.productName{
+    margin:-6rem 0rem 0rem 1rem;
+    color:white;
+    font-weight: bolder;
+    font-family:'open sans';
+}
+
+.row{
+    margin:2rem 3rem 0 3rem;
+    display:flex;
+    text-align:center;
+}
+.review-card{
+    width:18rem;
+    height:10rem;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 22px 0 rgba(0, 0, 0, 0.19);
+    border-radius:25px;
+    margin:0 2rem 0rem 0;  
+    padding:25px; 
+}
+.review-card p{
+    width:14rem;
+    height:8rem;
+    font-family: 'Roboto';
+    justify-content: space-evenly;
+    color:rgb(91, 90, 90);
+
+}
+footer{
+    background-color:rgba(177, 35, 87, 0.2);
+    height:25rem;
+    margin: 7rem 0 0 0;
+
+}
+#footernav{
+    margin:0rem 0 0 3rem;
+    display:flex;
+    padding:25px;
+}
+#footernav ul{
+    list-style: none;
+}
+#footernav ul li a{
+    text-decoration:none;
+    color:rgba(177, 35, 87, 1);
+    font-family: 'open sans';
+    font-weight:lighter;
+    margin:2rem 0 0 0;
+    
+}
+#footernav ul li{
+    margin:1.5rem 0 0 0;
+}
+.text-footer{
+    margin:25rem 0 0 0;
+    text-align:center;
+    color:rgb(129, 33, 65);
+    font-size:20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 4px;
+}
+
+#footershop{
+    margin:0rem 0 0 3rem;
+    display:flex;
+    padding:2px;
+    margin:-14rem 36.7rem;
+}
+#footershop ul{
+    list-style: none;
+    text-align:center;
+}
+#footershop ul li a{
+    text-decoration:none;
+    color:rgba(28, 23, 23, 0.668);
+    font-family: 'open sans';
+    font-weight:lighter;
+    margin:rem 0 0 0;
+    
+}
+#footerprodlist{
+    color:rgba(177, 35, 87);
+}
+#footershop ul li{
+    margin:1rem 0 0 0;
+}
+#footerdetails{
+    margin:0rem 0 0 3rem;
+    display:flex;
+    padding:2px;
+    margin:-19rem 70rem;
+}
+#footerdetails ul{
+    list-style: none;
+}
+#footerdetails ul li a{
+    text-decoration:none;
+    
+    margin:rem 0 0 0;
+    
+}
+#footerdetails{
+    color:rgba(177, 35, 87);
+    font-family: 'open sans';
+    font-weight:lighter;
+}
+#footerdetails ul li{
+    margin:1rem 0 0 0;
+}
+.burger{
+    position:absolute;
+    cursor:pointer;
+    right:5%;
+    top: 15px;
+    display:none;
+
+}
+
+.line{
+    width:33px;
+    background-color:rgb(129, 33, 65);;
+    height:4px;
+    margin:6px;
+
+}
+
+.about-section{
+    display: flex;
+    flex-direction: column;
+    width:50rem;
+    margin-top:5rem;
+    margin-left:10rem;
+    margin-bottom: 2rem;
+    
+}
+
+.about-section h1{
+    font-size:60px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom:1rem;
+    color:rgb(179, 75, 110);
+}
+
+
+.about-section p{
+    font-size:17px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom:1rem;
+    color:rgb(106, 28, 54);
+}
+#image{
+    background-color: rgb(247, 241, 244);
+    padding: 2px;
+    border-radius: 50%;
+    width:75rem;
+    height: 40rem;
+    margin-top: -3rem;
+    margin-left:-5rem;
+    box-shadow:  5px 10px rgb(218, 179, 198);
+}
+.about-section img{
+    height:30rem;
+    margin-left:30rem;
+    margin-top:7rem;
+    display: flex;
+    border-radius: 50%;
+    box-shadow: 5px 10px rgb(218, 179, 198);
+}
+
+.paragraphs{
+    margin-top:-27rem;
+    width:25rem;
+    height:10rem;
+    margin-left:4rem;
+    text-align: center;
+    font-size:18px;
+}
+.linecard{
+    width: 47.6rem;
+    margin-top:20rem;
+    position: absolute;
+    display: flex;
+    border: 4px solid rgba(216, 112, 147, 0.629);
+
+}
+.leftline{
+    width: 10.5rem;
+}
+.rightline{
+    margin-left: 74rem;
+    width: 10rem;
+}
+.card{
+    height: 31rem;
+    padding: 20px;
+    width:25rem;
+    font-size: 17.5px;
+    background-color: rgba(255, 192, 203, 0.735);
+    border-radius: 5%;
+    border: 5px solid rgba(216, 112, 147, 0.487);   
+    box-shadow: 10px 10px 10px 10px rgba(216, 112, 147, 0.487);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.card img{
+    margin-bottom: 1rem;
+    margin-top:0rem;
+    height: 15rem;
+    width:25rem;
+}
+.lft{
+    margin-left: 11rem;
+    margin-top: 5rem;
+}
+.rit{
+    margin-left: 7rem;
+    margin-top: 5rem;
+    
+}
+.card h1,p{
+    margin-bottom: 1.3rem;
+}
+.card a{
+    background-color: rgba(216, 112, 147, 0.557);
+    border-radius: 20%;
+    padding: 2%;
+    text-decoration: none;
+    color: black;
+}
+.row{
+    display: flex;
+}
+.heading{
+    font-size:40px;
+    margin-top: 4rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 30rem;
+    margin-bottom: -2rem;
+    color: palevioletred;
+}
+
+@media only screen and (max-width:1093px){
+    .nav-list{
+        flex-direction: column;
+        text-align: left;
+        align-items: left; 
+        margin: 2rem 0rem 0 38rem;
+        padding: 3px;
+        
+    }
+    
+    .navbar{
+        flex-direction: column;
+        height:15rem;
+        transition:all 0.38s ease-out;
+        max-width: 100vh;  
+        position: relative;
+        margin:7rem 0rem 0 -19rem;
+    }
+    
+    #logo{
+        margin:0 0 0 2rem;
+        display:flex;
+    }
+    .burger{
+        display:block;
+        margin:-6rem 7rem 0 0;
+    }
+    .h-nav{
+        height:0px;
+    }
+    .v-class{
+        opacity:0;
+    }
+    
+    .nav-list li{
+        list-style: none;
+        padding:26px 30px;
+        margin-top:-2rem;
+    }
+    
+    .nav-list li a{
+        text-decoration: none;
+        color:rgb(253, 251, 251);
+        font-size: 20px;
+        font-family:'montserrat';
+        font-weight: 700;
+    }
+    .nav-list li a:hover{
+        text-decoration: none;
+        background-color:rgb(214, 50, 105);
+        padding: 4px;
+        border-radius: 10%;
+    }
+    
+    .background{
+            margin-left:0rem;
+            background:url('image 2.png');
+            background-size: cover;
+            
+    }
+    .box-main{
+        height:400px;
+        width:20rem;
+    }
+    
+    .text-big{
+        font-size: 25px;
+        margin-top: 9rem;
+        margin-left: 9rem;
+        font-family: 'lora';
+        width:26rem;
+        text-align:center;
+        font-weight: bolder;
+    }
+    .text-small{
+        font-size:16px;
+        font-family: 'roboto';
+        margin-left: 9rem;
+        font-weight: bolder;
+        margin-top:-1rem;
+        width:26rem;
+    }
+    .btn{
+        margin:0 0 0 18.5rem;
+    }
+    .btn:hover{
+        transition:0.1s;
+        font-size:20px;
+        background-color: palevioletred;
+        width:200px;
+        font-weight:450;    
+    }
+    .section{
+        margin:rem 0 0 3.2rem;
+        flex-direction: column;       
+    }
+    .sectionTag{
+        text-align: center;
+        width:20rem;
+    }
+    .sectionSubTag{
+        text-align: center;
+        width:300px;
+    }
+    .imgFluid{
+        transition: all 0.5s ease-out;
+        margin-top:10rem;
+        max-width: 100vh;
+        
+    }.thumbnail{
+        margin-top:2.5rem;
+
+    }
+    .paras .sectionTag{
+        margin: 15rem 0 0 3rem;
+    }
+    .paras .sectionSubTag{
+        margin: 1rem 0 0 3rem;
+    }
+    .left .paras {
+        margin: 10rem 5.5rem 0 0rem;
+    }
+
+    .bestsellers{
+        margin:15rem 0 0 -1rem;
+        display: flex;
+        flex-direction: column;
+    }
+    .bestsellers .text-big{
+        margin:10rem 0 0 3rem;
+        text-align:center;
+        width:20rem;
+    }
+    .bestseller-img:hover{
+        box-shadow: 30px 40px 20px 0 rgba(0, 0, 0, 0.2), 30px 10px 30px 0 rgba(0, 0, 0, 0.19), 10px 10px 10px 10px pink;
+    
+    }
+    .bestseller-card{
+        margin:2rem 0 0 0;
+    }    
+    .reviews{
+        margin:5rem 0 0 -2rem;
+        display: flex;
+        flex-direction: column;
+        padding:20px;
+    }
+    .reviews .text-big{
+        margin:5rem 0rem 0 3rem;
+        text-align:center;
+        width:20rem;
+    }
+    .review-card{
+        margin:2rem 0 2rem 0;
+        width:15rem;
+    }
+    footer{
+        width:24.7rem;
+    }
+    #footernav{
+        margin:0 0 0 0;
+        font-size:12px;
+    }
+    #footershop{
+        margin: -12.5rem 0 0 7rem;
+        font-size:12px;
+    }
+    #footerdetails{
+        margin: -15rem 0 0 15rem;
+        font-size:12px;
+    }
+    .text-footer{
+        margin:4rem 0 0 0;
+        font-size:14px;
+    }
+    .about-section{
+        display: flex;
+        flex-direction: column;
+        width:17rem;
+        margin-top:5rem;
+        margin-left:4rem;
+        margin-bottom: 2rem;
+        text-align: justify;
+    }
+    
+    .about-section h1{
+        font-size:38px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        margin-bottom:1rem;
+        color:rgb(179, 75, 110);
+    }
+    
+    
+    .about-section p{
+        font-size:17px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-bottom:1rem;
+        color:rgb(106, 28, 54);
+    }
+    #image{
+        background-color: rgb(247, 241, 244);
+        padding: 2px;
+        border-radius: 50%;
+        width:45rem;
+        height:40rem;
+        margin-top: -3rem;
+        margin-left:-5rem;
+        box-shadow:  5px 10px rgb(218, 179, 198);
+    }
+    .about-section img{
+        height:20rem;
+        margin-left:5rem;
+        margin-top:30rem;
+        display: flex;
+        border-radius: 50%;
+        box-shadow: 5px 10px rgb(218, 179, 198);
+    }
+    
+    .paragraphs{
+        margin-top:-40rem;
+        width:20rem;
+        margin-left:4rem;
+        text-align: center;
+        font-size:2px;
+    }
+    #absection3{
+        margin-top:15rem;
+    }
+    .card{
+        height: 23rem;
+        padding: 10px;
+        width:15rem;
+        font-size: 13px;
+        background-color: rgb(255, 192, 203,0.735);
+        border-radius: 5%;
+        border: 5px solid rgba(216, 112, 147, 0.487);   
+        box-shadow: 10px 10px 10px 10px rgba(216, 112, 147, 0.487);
+        font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    
+    .card img{
+        margin-bottom: 1rem;
+        height: 10rem;
+        width:15rem;
+    }
+    .lft{
+        margin-left: 4rem;
+        margin-top: 5rem;
+    }
+    .rit{
+        margin-left: 4rem;
+        margin-top: 5rem;
+        
+    }
+    .card h1,p{
+        margin-bottom: 1.3rem;
+    }
+    .card a{
+        background-color: rgba(216, 112, 147, 0.557);
+        border-radius: 20%;
+        padding: 2%;
+        text-decoration: none;
+        color: black;
+    }
+    .row{
+        display: flex;
+        flex-direction: column;
+    }
+    .linecard{
+        margin-top:20rem;
+        position: absolute;
+        display: flex;
+        border: 4px solid rgba(216, 112, 147, 0.629);
+    
+    }
+    .leftline{
+        width: 3.8rem;
+    }
+    .rightline{
+        margin-left: 21.4rem;
+        width: 4rem;
+        margin-top:50rem;
+    }
+    .heading{
+        font-size:30px;
+        margin-top: 4rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-left: 1.5rem;
+        margin-bottom: -2rem;
+        color: palevioletred;
+    }
+}
+
