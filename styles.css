@@ -392,18 +392,46 @@ footer{
     text-align: center;
     font-size:18px;
 }
+#prodList{
+    
+    list-style:none;
+    text-decoration:none;
+    display:flex;
+    margin:5rem 0 0 10rem;
+}
+#prodList li a{
+    color:rgba(177, 35, 87);
+    font-family: 'open sans';
+    font-weight:normal;
+    text-decoration:none;
+    margin:2rem; 
+    font-size:18px;
+    border: 2px solid palevioletred;
+    padding:5px;
+    border-radius:15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
 
 .card{
-    height: 30rem;
+    height: 34rem;
     padding: 10px;
-    width:30rem;
+    width:24rem;
     font-size: 17px;
     margin:2rem;
-    background-color: rgba(12, 1, 5, 1);
+    background-color: rgba(186, 71, 113, 0.729);
     border-radius: 25px;
     color: white;
-    font-family: 'montserrat';
+    box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2), 0 20px 20px 5px rgba(0, 0, 0, 0.19);
+    font-family: 'open sans';
     font-weight:bold;
+    border:5px solid palevioletred;
+}
+
+.card:hover{
+    padding: 15px;
+    width:32rem;
+    box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2), 0 20px 20px 20px rgba(0, 0, 0, 0.19) 0 20px 20px 15px rgb(49, 7, 21);
 }
 
 .card img{
@@ -437,6 +465,12 @@ footer{
     margin-bottom: -2rem;
     color: rgb(177, 35, 87);
 }
+.category-heading{
+    margin:3rem 0 -2rem 8rem;
+    font-size:50px;
+    font-family: 'open sans';
+
+}
 .contact-h1{
     color:rgb(177, 35, 87);
     font-family:'montserrat';
@@ -455,4 +489,9 @@ footer{
 .social-icons{
     margin:1.5rem 0 0 55rem;
     width:10rem;
+}
+#top{
+    margin:5rem 0 0 38rem;
+    color: rgb(69, 3, 48);
+    
 }
