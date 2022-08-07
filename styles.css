@@ -399,6 +399,7 @@ footer{
     display:flex;
     margin:5rem 0 0 10rem;
 }
+
 #prodList li a{
     color:rgba(177, 35, 87);
     font-family: 'open sans';
@@ -412,7 +413,9 @@ footer{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 }
-
+#prodList li a:hover{
+    background-color: pink;
+}
 .card{
     height: 34rem;
     padding: 10px;

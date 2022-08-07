@@ -231,6 +231,11 @@
         width:18rem;
         margin:2rem 0 0 0.5rem;
     }
+    .card:hover{
+        padding: 11px;
+        width:19rem;
+        box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2), 0 20px 20px 20px rgba(0, 0, 0, 0.19) 0 20px 20px 15px rgb(49, 7, 21);
+    }
     .card img{
         margin-bottom: 1rem;
         height: 13rem;
