@@ -201,7 +201,7 @@
     font-family: 'montserrat';    
 }
 .bestsellers{
-    margin-left:3rem;
+    margin-left:-4rem;
 }
 .bestseller-img{
     margin:2rem;
@@ -222,7 +222,7 @@
 }
 
 .row{
-    margin:2rem 3rem 0 3rem;
+    margin:2rem 3rem 0 5rem;
     display:flex;
     text-align:center;
 }
