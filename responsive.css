@@ -148,12 +148,12 @@
         padding:20px;
     }
     .reviews .text-big{
-        margin:5rem 0rem 0 4rem;
+        margin:5rem 0rem 0 3rem;
         text-align:center;
         width:20rem;
     }
     .review-card{
-        margin:2rem 0 2rem 1rem;
+        margin:2rem 0 2rem 0rem;
         width:15rem;
     }
     footer{
@@ -182,7 +182,7 @@
         flex-direction: column;
         width:17rem;
         margin-top:5rem;
-        margin-left:5rem;
+        margin-left:3rem;
         margin-bottom: 2rem;
         text-align: justify;
     }
