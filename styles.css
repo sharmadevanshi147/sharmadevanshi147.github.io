@@ -2,6 +2,9 @@
     margin: 0;
     padding:0;
 }
+body {
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
 
 @keyframes appear {
   from {opacity:0%;}
@@ -158,6 +161,7 @@
 }
 
 .section{
+    tr
     height:500px;
     display: flex;
     align-items:center;
