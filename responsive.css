@@ -1,4 +1,9 @@
 @media only screen and (max-width:1093px){
+    
+    body {
+        overflow-x: hidden; 
+    }
+    
     .nav-list{
         flex-direction: column;
         text-align: left;
