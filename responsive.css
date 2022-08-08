@@ -233,7 +233,7 @@
     .card{
         height:30rem;
         width:18rem;
-        margin:2rem 0 5rem -1rem;
+        margin:2rem 0 5rem -2rem;
     }
     .card:hover{
         padding: 11px;
