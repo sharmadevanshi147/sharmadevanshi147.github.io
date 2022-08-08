@@ -79,10 +79,10 @@
     .text-small{
         font-size:16px;
         font-family: 'roboto';
-        margin-left: 9rem;
+        margin-left: 11rem;
         font-weight: bolder;
         margin-top:-1rem;
-        width:26rem;
+        width:20rem;
     }
     .btn{
         margin:0 0 0 18.5rem;
@@ -130,7 +130,7 @@
         flex-direction: column;
     }
     .bestsellers .text-big{
-        margin:10rem 0 0 5rem;
+        margin:10rem 0 -2rem 4rem;
         text-align:center;
         width:20rem;
     }
@@ -139,7 +139,7 @@
     
     }
     .bestseller-card{
-        margin:2rem 0 0 0;
+        margin:2rem 0 0 2rem;
     }    
     .reviews{
         margin:5rem 0 0 -2.5rem;
@@ -148,16 +148,16 @@
         padding:20px;
     }
     .reviews .text-big{
-        margin:5rem 0rem 0 3.8rem;
+        margin:5rem 0rem 0 3rem;
         text-align:center;
         width:20rem;
     }
     .review-card{
-        margin:2rem 0 2rem 0;
+        margin:2rem 0 2rem 1.5rem;
         width:15rem;
     }
     footer{
-        width:25.2rem;
+        width:25.8rem;
         margin-bottom: 0px;
         max-width: 100vh;
     }
@@ -170,7 +170,7 @@
         font-size:12px;
     }
     #footerdetails{
-        margin: -15rem 0 0 15rem;
+        margin: -15rem 0 0 14.5rem;
         font-size:12px;
     }
     .text-footer{
@@ -220,7 +220,7 @@
     }
     
     .paragraphs{
-        margin-top:-40rem;
+        margin-top:-43rem;
         width:20rem;
         margin-left:4rem;
         text-align: center;
@@ -256,7 +256,8 @@
     .heading{
         font-size:3.5vh;
         margin: 4rem 0 0 -1.5rem;
-        width:28rem;
+        width:25rem;
+        border-bottom:2px solid palevioletred;
     }
     #prodList{
         margin:5rem 0 0 8rem;
