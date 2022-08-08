@@ -77,9 +77,9 @@
         font-weight: bolder;
     }
     .text-small{
-        font-size:16px;
+        font-size:14px;
         font-family: 'roboto';
-        margin-left: 11rem;
+        margin-left: 12rem;
         font-weight: bolder;
         margin-top:-1rem;
         width:20rem;
@@ -130,7 +130,7 @@
         flex-direction: column;
     }
     .bestsellers .text-big{
-        margin:10rem 0 -2rem 4rem;
+        margin:10rem 0 -2rem 4.5rem;
         text-align:center;
         width:20rem;
     }
@@ -139,7 +139,7 @@
     
     }
     .bestseller-card{
-        margin:2rem 0 0 2rem;
+        margin:2rem 0 1rem 0rem;
     }    
     .reviews{
         margin:5rem 0 0 -2.5rem;
@@ -148,16 +148,16 @@
         padding:20px;
     }
     .reviews .text-big{
-        margin:5rem 0rem 0 3rem;
+        margin:5rem 0rem 0 4rem;
         text-align:center;
         width:20rem;
     }
     .review-card{
-        margin:2rem 0 2rem 1.5rem;
+        margin:2rem 0 2rem 1rem;
         width:15rem;
     }
     footer{
-        width:25.8rem;
+        width:25rem;
         margin-bottom: 0px;
         max-width: 100vh;
     }
@@ -255,7 +255,7 @@
     
     .heading{
         font-size:3.5vh;
-        margin: 4rem 0 0 -1.5rem;
+        margin: 4rem 0 0 1rem;
         width:25rem;
         border-bottom:2px solid palevioletred;
     }
@@ -279,7 +279,7 @@
     #map{
         width:20rem;
         height:20rem;
-        margin:2rem 0 0 1.5rem;
+        margin:2rem 0 0 2rem;
     }
     .social-icons{
         margin:1rem 0 0 7rem;
