@@ -1,4 +1,8 @@
 @media only screen and (max-width:1093px){
+    body{
+        width:fit-content;
+    }
+    
     .nav-list{
         flex-direction: column;
         text-align: left;
