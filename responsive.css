@@ -21,9 +21,12 @@
         margin:0 0 0 2rem;
         display:flex;
     }
+    .line{
+        border-radius:30px;
+    }
     .burger{
         display:block;
-        margin:-6rem 2.5rem 0 0;
+        margin:-5.5rem 2rem 0 0;
     }
     .h-nav{
         height:0px;
@@ -107,7 +110,8 @@
     .imgFluid{
         transition: all 0.5s ease-out;
         margin-top:15rem;
-        max-width: 100vh;
+        max-width: 46vh;
+        max-height:35vh;
         
     }
     .paras .sectionTag{
@@ -121,12 +125,12 @@
     }
 
     .bestsellers{
-        margin:15rem 0 0 0rem;
+        margin:15rem 0 0 -2.4rem;
         display: flex;
         flex-direction: column;
     }
     .bestsellers .text-big{
-        margin:10rem 0 0 3rem;
+        margin:10rem 0 0 5rem;
         text-align:center;
         width:20rem;
     }
@@ -138,13 +142,13 @@
         margin:2rem 0 0 0;
     }    
     .reviews{
-        margin:5rem 0 0 0rem;
+        margin:5rem 0 0 -2.5rem;
         display: flex;
         flex-direction: column;
         padding:20px;
     }
     .reviews .text-big{
-        margin:5rem 0rem 0 2rem;
+        margin:5rem 0rem 0 3.8rem;
         text-align:center;
         width:20rem;
     }
@@ -153,7 +157,7 @@
         width:15rem;
     }
     footer{
-        width:26rem;
+        width:25.2rem;
         margin-bottom: 0px;
         max-width: 100vh;
     }
@@ -178,7 +182,7 @@
         flex-direction: column;
         width:17rem;
         margin-top:5rem;
-        margin-left:4rem;
+        margin-left:5rem;
         margin-bottom: 2rem;
         text-align: justify;
     }
@@ -186,7 +190,7 @@
     .about-section h1{
         font-size:55px;
         margin-bottom:1rem;
-        margin-top:-4rem;
+        margin-top:-2rem;
         color:rgb(179, 75, 110);
     }
     
@@ -229,7 +233,7 @@
     .card{
         height:30rem;
         width:18rem;
-        margin:2rem 0 0 -1rem;
+        margin:2rem 0 5rem -1rem;
     }
     .card:hover{
         padding: 11px;
@@ -246,16 +250,18 @@
     .row{
         display: flex;
         flex-direction: column;
+        margin:2rem 3rem 0 4rem;
     }
     
     .heading{
-        font-size:30px;
-        margin: 4rem 0 0 1rem;
+        font-size:3.5vh;
+        margin: 4rem 0 0 -1.5rem;
         width:28rem;
     }
     #prodList{
-        margin-top:1rem;
+        margin:5rem 0 0 8rem;
         flex-direction: column;
+        text-align:center;
     }
     #prodList li {
         margin:1.5rem 0 0 -8rem;
