@@ -295,7 +295,7 @@ footer{
 }
 
 #footershop{
-    margin:0rem 0 0 3rem;
+    margin:4rem 0 0 3rem;
     display:flex;
     padding:2px;
     margin:-14rem 36.7rem;
@@ -319,7 +319,7 @@ footer{
     margin:1rem 0 0 0;
 }
 #footerdetails{
-    margin:0rem 0 0 3rem;
+    margin:4rem 0 0 3rem;
     display:flex;
     padding:2px;
     margin:-19rem 70rem;
@@ -461,6 +461,7 @@ footer{
     height: 12rem;
     width:17rem;
     border-radius:10px;
+    object-fit: cover;
 }
 
 .card h1,p{
