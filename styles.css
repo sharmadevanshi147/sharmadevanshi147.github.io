@@ -301,6 +301,7 @@ footer{
     margin:-14rem 36.7rem;
 }
 #footershop ul{
+    margin-top:2rem;
     list-style: none;
     text-align:center;
 }
@@ -325,6 +326,7 @@ footer{
     margin:-19rem 70rem;
 }
 #footerdetails ul{
+    margin-top:2rem;
     list-style: none;
 }
 #footerdetails ul li a{
