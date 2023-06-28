@@ -516,7 +516,7 @@ footer{
 }
 #top{
     margin:5rem 0 0 38rem;
-    color: rgb(69, 3, 48);
+    color: whitesmoke;
     
 }
 .dropdown {
@@ -558,7 +558,7 @@ footer{
     text-align: left;
   }
   
-  /* Add a grey background color to dropdown links on hover */
+ 
   .dropdown-content a:hover {
     background-color: #ddd;
   }
