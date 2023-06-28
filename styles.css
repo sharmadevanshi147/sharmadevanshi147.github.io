@@ -442,7 +442,7 @@ footer{
     width:24rem;
     font-size: 17px;
     margin:2rem;
-    background-image: linear-gradient(rgba(177, 35, 87, 1), rgba(18, 5, 10, 1));
+    background-image: linear-gradient(rgb(86 4 45 / 97%), rgb(18 5 10 / 98%));
     border-radius: 25px;
     color: white;
     box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2), 0 20px 20px 5px rgba(0, 0, 0, 0.19);
